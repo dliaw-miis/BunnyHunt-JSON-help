@@ -1,5 +1,3 @@
-schedule("window", preloadImages);
-
 var imageArray = ["images/bomb.png", "images/bunny.png", "images/bunny1.png", "images/bunny2.png", "images/bunny3.png", "images/bunny4.png", "images/bunny5.png", "images/button_green.gif", "images/button_red.gif", "images/cloud.png", "images/cloud2.png", "images/hill.png", "images/hill2.png", "images/hills.png", "images/lives.gif", "images/stage.jpg"];
 var imageObjects = [];
 var currImage = 0;
